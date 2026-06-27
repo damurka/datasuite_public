@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/aphrcwaro/datasuite_public/releases/download/1.0.0-beta6/DataSuite-win32-x64-1.0.0-beta6.zip",
+  "url": "https://github.com/aphrcwaro/datasuite_public/releases/download/1.0.0-beta9/DataSuite-win32-x64-1.0.0-beta9.zip",
   "name": "1.0.0",
-  "version": "7832a8a4375372a5920cb54f8dff62588f386dcb",
-  "productVersion": "1.0.0.6",
-  "hash": "cde26efc61432cd354fc7135e0122bc706fd6701",
-  "timestamp": 1781003315654,
-  "sha256hash": "52415d6e4c07b481e4ae212ee2259aa70ecb675068604eefd45007a09298df69"
+  "version": "944ca089cf6413e8ca46419de5813f2ab07170aa",
+  "productVersion": "1.0.0.9",
+  "hash": "5237218336c2621bfe8645757a1f6200d493c3e1",
+  "timestamp": 1782567845779,
+  "sha256hash": "e6b0ad9ebde0f2b34d5d571ccceb30b25181bb84c9ef0d09707c29e9655e884b"
 }
