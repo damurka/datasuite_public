@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/aphrcwaro/datasuite_public/releases/download/1.0.0-beta8/DataSuiteUserSetup-win32-x64-1.0.0-beta8.exe",
+  "url": "https://github.com/aphrcwaro/datasuite_public/releases/download/1.0.0-beta9/DataSuiteUserSetup-win-x64-1.0.0-beta9.exe",
   "name": "1.0.0",
-  "version": "14c5fab53b0b36e6fba373e4780033c1ffc984b3",
-  "productVersion": "1.0.0.8",
-  "hash": "4836a1b122ac01cbe060a4ea17c2a18561c7c321",
-  "timestamp": 1782216515779,
-  "sha256hash": "e50b1436d9ff437d74a49efc12753f0d203127e9e921f1634dfe493ebac35015"
+  "version": "944ca089cf6413e8ca46419de5813f2ab07170aa",
+  "productVersion": "1.0.0.9",
+  "hash": "21cb24e25c4eef3e2d11d8bf31fdce96733da646",
+  "timestamp": 1782567842208,
+  "sha256hash": "790fba59e01e5e3afa7c38562dffb68d17f5ff90aaa7ce49750194562863dd10"
 }
