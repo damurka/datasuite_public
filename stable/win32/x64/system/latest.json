@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/aphrcwaro/datasuite_public/releases/download/1.0.2/DataSuiteSetup-win32-x64-1.0.2.exe",
-  "name": "1.0.2",
-  "version": "cfe845d6fbfff15a7eff099688e71641b81666b8",
-  "productVersion": "1.0.2.0",
-  "hash": "2a26e932e88988c8dc571cba4b9b6cca824f07ba",
-  "timestamp": 1782924866636,
-  "sha256hash": "fb1393c3c40dfa9f010a4883be8e81f069d95c3dbb55cc3576f77e5ac32c123c"
+  "url": "https://github.com/aphrcwaro/datasuite_public/releases/download/1.0.3/DataSuiteSystemSetup-win32-x64-1.0.3.exe",
+  "name": "1.0.3",
+  "version": "070fecb4b94af20d8653556075a4230aadf94484",
+  "productVersion": "1.0.3.0",
+  "hash": "1eab53c4529d7dc72ff7461ab03aa9dd9526676e",
+  "timestamp": 1782997168107,
+  "sha256hash": "87b9c4b452f9c8bb40a000f81fd0fb8fc7a15b2c7bb5a8476ba2ca4a4fe2ccf3"
 }
